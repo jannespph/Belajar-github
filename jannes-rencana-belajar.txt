@@ -1,5 +1,9 @@
 Rencana-Belajar Saat Masuk Kuliah :
 - Pagi" sebelum ke kampus wajib megang leptop 
+  * odoo
+  * python
+  * html
+  * git dan github mungkin
 - Sering" baca  buku atau wikipedia tetnag teknologi terbaru
 - Sudah bisa mulai belajar buat web sendiri 
 - Malamnya belajar tetang pekuliaan
