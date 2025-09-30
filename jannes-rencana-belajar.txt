@@ -1,8 +1,13 @@
 Rencana-Belajar Saat Masuk Kuliah :
 - Pagi" sebelum ke kampus wajib megang leptop 
+  * odoo
+  * python
+  * html
+  * git dan github
 - Sering" baca  buku atau wikipedia tetnag teknologi terbaru
 - Sudah bisa mulai belajar buat web sendiri 
+  * awal web gereja
+  * sistem transaksi usaha kakak
 - Malamnya belajar tetang pekuliaan
 - Jangan lupa juga belajar matematika dasar hingga yang rumit nya 
-- Belajar bahas juga penting 
 - Saya mungkin juga mulai bisa belajar buat konten?????
