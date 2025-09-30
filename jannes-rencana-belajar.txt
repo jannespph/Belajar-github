@@ -4,6 +4,7 @@ Rencana-Belajar Saat Masuk Kuliah :
   * python
   * html
   * git dan github
+  * Belajar materi kampus
 - Sering" baca  buku atau wikipedia tetnag teknologi terbaru
 - Sudah bisa mulai belajar buat web sendiri 
   * awal web gereja
